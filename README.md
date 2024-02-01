@@ -7,7 +7,7 @@
   Astro Cactus
 </h1>
 
-Astro Cactus is a simple opinionated starter built with the Astro framework. I am using it for my personal blog site.
+Astro Cactus is a simple opinionated starter built with the Astro framework. I am using it learn Astro and to build my personal website.
 
 
 ## Acknowledgment
